@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ec0911718
-- 👀 I’m interested in creating mods for rimworld and library of ruina
+- 👀 I’m interested in creating mods for rimworld
 - 🌱 I’m currently learning python, java, and c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
-email: ericcalloway11@hotmail.com
+email: ericcalloway22@hotmail.com
 
 <!---
 ec0911718/ec0911718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
